@@ -1,0 +1,33 @@
+[{
+        "username" : "alex", 
+        "password" : "alex123", 
+        "follow" : 100, 
+        "fans" : 200, 
+        "nikename" : "石垒", 
+        "icon" : "/upload/968a3b7218ee744931276a64c9b7ea01.png", 
+        "time" : 1551620448550 
+},{
+        "username" : "郭靖", 
+        "password" : "alex456", 
+        "follow" : 100, 
+        "fans" : 200, 
+        "nikename" : "啊啊", 
+        "icon" : "/upload/968a3b7218ee744931276a64c9b7ea01.png", 
+        "time" : 1551620448550 
+},{
+        "username" : "黄蓉", 
+        "password" : "alex789", 
+        "follow" : 100, 
+        "fans" : 200, 
+        "nikename" : "啦啦", 
+        "icon" : "/upload/968a3b7218ee744931276a64c9b7ea01.png", 
+        "time" : 1551620448550 
+},{
+        "username" : "周伯通", 
+        "password" : "alex0", 
+        "follow" : 100, 
+        "fans" : 200, 
+        "nikename" : "哦哦", 
+        "icon" : "/upload/968a3b7218ee744931276a64c9b7ea01.png", 
+        "time" : 1551620448550 
+}]

@@ -1,0 +1,103 @@
+[
+    {
+        "title" : "轮播图1", 
+        "sub_title" : "1", 
+        "banner" : "图1", 
+        "time":234234,
+        "detail" : { 
+          "auth" : "", 
+          "content" : "<p>xxx<p>", 
+          "icon" : "/upload/banner/xxx.jpg" 
+        }
+   },{
+    "title" : "轮播图2", 
+    "sub_title" : "2", 
+    "banner" : "图2", 
+    "time":234234,
+    "detail" : { 
+      "auth" : "", 
+      "content" : "<p>xxx<p>", 
+      "icon" : "/upload/banner/xxx.jpg" 
+    }
+},{
+    "title" : "轮播图3", 
+    "sub_title" : "3", 
+    "banner" : "图3", 
+    "time":234234,
+    "detail" : { 
+      "auth" : "", 
+      "content" : "<p>xxx<p>", 
+      "icon" : "/upload/banner/xxx.jpg" 
+    }
+},{
+    "title" : "轮播图4", 
+    "sub_title" : "4", 
+    "banner" : "图4", 
+    "time":234234,
+    "detail" : { 
+      "auth" : "", 
+      "content" : "<p>xxx<p>", 
+      "icon" : "/upload/banner/xxx.jpg" 
+    }
+},{
+    "title" : "轮播图5", 
+    "sub_title" : "5", 
+    "banner" : "图5", 
+    "time":234234,
+    "detail" : { 
+      "auth" : "", 
+      "content" : "<p>xxx<p>", 
+      "icon" : "/upload/banner/xxx.jpg" 
+    }
+},{
+    "title" : "轮播图6", 
+    "sub_title" : "6", 
+    "banner" : "图6", 
+    "time":234234,
+    "detail" : { 
+      "auth" : "", 
+      "content" : "<p>xxx<p>", 
+      "icon" : "/upload/banner/xxx.jpg" 
+    }
+},{
+    "title" : "轮播图7", 
+    "sub_title" : "7", 
+    "banner" : "图7", 
+    "time":234234,
+    "detail" : { 
+      "auth" : "", 
+      "content" : "<p>xxx<p>", 
+      "icon" : "/upload/banner/xxx.jpg" 
+    }
+},{
+    "title" : "轮播图8", 
+    "sub_title" : "8", 
+    "banner" : "图8", 
+    "time":234234,
+    "detail" : { 
+      "auth" : "", 
+      "content" : "<p>xxx<p>", 
+      "icon" : "/upload/banner/xxx.jpg" 
+    }
+},{
+    "title" : "轮播图9", 
+    "sub_title" : "9", 
+    "banner" : "图9", 
+    "time":234234,
+    "detail" : { 
+      "auth" : "", 
+      "content" : "<p>xxx<p>", 
+      "icon" : "/upload/banner/xxx.jpg" 
+    }
+},{
+
+    "title" : "轮播图10", 
+    "sub_title" : "10", 
+    "banner" : "图10", 
+    "time":234234,
+    "detail" : { 
+      "auth" : "", 
+      "content" : "<p>xxx<p>", 
+      "icon" : "/upload/banner/xxx.jpg" 
+    }
+}]
