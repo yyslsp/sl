@@ -34,13 +34,13 @@
 					
 						<div class="animated wow slideInUp" data-wow-delay=".5s">
 							
-							<input type="button" value="注册" @click="reg">
-							<router-link tag="input" type="button" value="已有账号去登陆" to="/login"></router-link>
+							<input type="button" value="注册" @click="reg" id="zhuce">
+							<router-link tag="input" type="button" value="有账号去登陆" to="/login" id="butt"></router-link>
 						</div>
 					</div>
-					<div class="register-home animated wow slideInUp" data-wow-delay=".5s">
+					<!-- <div class="register-home animated wow slideInUp" data-wow-delay=".5s">
 						<a href="##">Home</a>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		<!-- //register -->
@@ -92,6 +92,18 @@
 </script>
 
 <style>
+	#butt{
+		background:yellowgreen;
+		border: none;
+		margin-top: 5px;
+	}
+	#zhuce{
+		background: yellow;
+		margin-top: 5px;
+		width: 100%;
+		height:30px;
+		border: none;
+	}
 	#icon-a{
 		border:1px solid #000;
 		width:100px;

@@ -26,7 +26,6 @@
 								to=""
 								>
 									<div class="new-products-grid-left">
-										<!-- <a href="##"><img :src="item.url" alt=" " class="img-responsive" /></a> -->
 										<router-link tag="a" :to="`/detail/${item._id}?collectionName=jiaju`"><img :src="item.url" alt=" " class="img-responsive" /></router-link>
 									</div>
 									<div class="new-products-grid-right">

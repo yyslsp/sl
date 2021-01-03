@@ -24,13 +24,14 @@
 								<div class="forgot">
 									<a href="#">忘记密码?</a>
 								</div>
-								<button type="button" value="登陆" @click="login">登陆</button>
+								<button type="button" value="登陆" @click="login" id="denglu">登陆</button>
 							</form>
 						</div>
 						<h4 class="animated wow slideInUp" data-wow-delay=".5s">For New People</h4>
 						<p class="animated wow slideInUp" data-wow-delay=".5s">
-							<router-link tag="input" type="button" value="没有账号去注册" to="/reg"></router-link>
-						(或) 返回 <a href="##">首页<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p>
+							<!-- <a href="##" >在这里注册</a> -->
+							<router-link tag="a" type="button"  to="/reg">在这里注册</router-link>
+							(或) 返回 <a href="##">首页<span class="glyphicon glyphicon-menu-right" aria-hidden="true"></span></a></p>
 					</div>
 				</div>
 		<!-- //login -->
@@ -89,6 +90,12 @@
 </script>
 
 <style>
+	#denglu{
+		width: 100%;
+		height: 30px;
+		border: none;
+		background: yellow;
+	}
 	/*-- products --*/
 	.breadcrumbs{
 		padding:1.5em 0;
